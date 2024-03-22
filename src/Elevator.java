@@ -1,2 +1,2 @@
-public class Elevator {
+public abstract class Elevator {
 }

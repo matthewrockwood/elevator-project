@@ -1,2 +1,2 @@
-public class Passenger {
+public abstract class Passenger {
 }
